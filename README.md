@@ -1,2 +1,2 @@
 # Udacity-MemeMe
-Second project for the iOS Nanodegree program.
+iPhone app that enables the user to take a picture, add text to the top and bottom to form a meme!
